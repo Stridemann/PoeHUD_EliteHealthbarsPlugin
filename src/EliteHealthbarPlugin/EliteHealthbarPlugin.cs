@@ -19,8 +19,14 @@ using PoeHUD.Poe.RemoteMemoryObjects;
 
 namespace EliteHealthbarPlugin
 {
-    public class EliteHealthbarPlugin : BaseSettingsPlugin<Settings>
+    public class EliteHealthbarsPlugin : BaseSettingsPlugin<Settings>
     {
+        public EliteHealthbarsPlugin()
+        {
+            PluginName = "Elite Healthbars";
+        }
+
+
         private List<EntityWrapper> MonstersCached = new List<EntityWrapper>();
         private List<MonsterPack> MonsterPacks = new List<MonsterPack>();
 

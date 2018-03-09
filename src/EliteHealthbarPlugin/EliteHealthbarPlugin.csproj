@@ -7,8 +7,8 @@
     <ProjectGuid>{4C197FD1-05B5-4966-8CF3-774E6A849C6B}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>EliteHealthbarPlugin</RootNamespace>
-    <AssemblyName>EliteHealthbarPlugin</AssemblyName>
+    <RootNamespace>EliteHealthbarsPlugin</RootNamespace>
+    <AssemblyName>EliteHealthbarsPlugin</AssemblyName>
     <TargetFrameworkVersion>v4.6.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <TargetFrameworkProfile />
