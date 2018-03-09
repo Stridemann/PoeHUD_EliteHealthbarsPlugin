@@ -10,8 +10,8 @@ public class Settings : SettingsBase
         PosX = new RangeNode<int>(200, 0, 2000);
         PosY = new RangeNode<int>(30, 0, 2000);
 
-        Width = new RangeNode<int>(500, 0, 1000);
-        Height = new RangeNode<int>(30, 0, 100);
+        Width = new RangeNode<int>(300, 0, 1000);
+        Height = new RangeNode<int>(14, 0, 100);
         Spacing = new RangeNode<int>(5, 0, 100);
 
         BGColor = Color.Black;
