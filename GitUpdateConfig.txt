@@ -8,3 +8,4 @@ src
 .gitattributes
 LICENSE
 README.md
+Screenshot.png

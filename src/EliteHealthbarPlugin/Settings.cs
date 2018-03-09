@@ -6,7 +6,7 @@ public class Settings : SettingsBase
 {
     public Settings()
     {
-        Enable = false;
+        Enable = true;
         PosX = new RangeNode<int>(200, 0, 2000);
         PosY = new RangeNode<int>(30, 0, 2000);
 
